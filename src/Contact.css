@@ -1,0 +1,178 @@
+.contact_body{
+    width: 100vw;
+    height: 100vh;
+  background-color: #F0F0F0;
+}
+.contact_component{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+
+    justify-content: space-around;
+    align-items: center;
+}
+.contact_component_child{
+    width: 400px ;
+    height: 130px;
+    /* border: 1px solid blue; */
+
+    display: flex;
+    flex-direction: column;
+}
+.contact_component_first_child{
+    margin-bottom: 40px;
+}
+.contact_component_second_child{
+    /* border: 1px solid brown; */
+    /* margin-bottom: 40px; */
+    /* width: 700px; */
+}
+.contact_component_child_two{
+    width: 645px ;
+    height: 130px;
+    /* border: 1px solid blue; */
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.whatsapp_detail{
+/* margin-right: 40px; */
+/* width: 650px!important; */
+/* border: 1px solid red; */
+
+    
+}
+.mail_detail{
+margin-left: 40px;
+/* border: 1px solid red; */
+}
+.phone_icon{
+    font-size: 30px;
+    /* border: 1px solid blue; */
+
+}
+.contact_info{
+    margin-left: 20px;
+    /* border: 1px solid purple; */
+    /* width: 440px; */
+}
+
+.span_phone{
+    font-size: 20px;
+    font-weight: bolder;
+    opacity: .9;
+}
+.contact_component_child h3{
+    font-size: 20px;
+    color: #147EFB;
+    /* border: 1px solid red; */
+    
+}
+.span_number{
+    font-size: 18px;
+    font-weight: 500;
+    opacity: .7;
+}
+.copied_phone{
+    /* fontSize:"34px", margin:"0px 15px", cursor:"pointer" */
+    font-size: 34px;
+    margin: 0px 15px;
+    cursor: pointer;
+    /* display: inline; */
+}
+.copied_phone:hover{
+    color: #00AECB;
+}
+.copied_num{
+    display: inline;
+    /* border: 1px solid red; */
+}
+.phone_info{
+    width: 600px!important;
+    /* border: 1px solid purple; */
+    padding: 20px 0px;
+}
+.gsfgsfdh{
+
+}
+@media only screen and (max-width:1193px)
+{
+    .contact_component{
+        /* border: 1px solid red; */
+        display: flex;
+        /* justify-content: center; */
+        align-items: center;
+        padding: 150px 0px!important;
+    }
+}
+@media only screen and (max-width:725px)
+{
+    .contact_component{
+        /* border: 1px solid red; */
+        display: flex;
+        /* justify-content: center; */
+        align-items: center;
+        padding: 150px 0px!important;
+        width: 100vw;
+        left: 0;
+        justify-content: center;
+    }
+   
+    
+    .contact_component_child{
+        width: 300px;
+        height: 130px;
+        /* border: 1px solid blue; */
+    
+        display: flex;
+        flex-direction: column;
+    }
+    .contact_component_child_two{
+        width: 340px ;
+        /* height: 130px; */
+        height: 230px;
+        /* border: 1px solid blue; */
+    
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px!important;
+        
+        align-items: center;
+        justify-content: space-between;
+        justify-content: center;
+
+    
+    }
+    
+    .whatsapp_detail{
+        /* text-align: left; */
+        width: 100%;
+        /* border: 1px solid red; */
+        /* margin-left: -50px; */
+    margin-top: 50px;
+    margin-left: 10px;
+
+    }
+    .mail_detail{
+        /* border: 1px solid red!important; */
+        width: 100%;
+    margin-right: 15px!important;
+    margin-top: 50px;
+
+    }
+   
+}
+
+.whatsapp_detail{
+    /* display: "flex", alignItems: "center" */
+    display: flex;
+    align-items: center;
+}
+.mail_detail{
+    /* display: "flex", alignItems: "center", marginRight: "30px" */
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+}
