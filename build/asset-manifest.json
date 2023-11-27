@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b257bcd7.css",
+    "main.js": "/static/js/main.073068e0.js",
+    "static/js/787.1ad52dd7.chunk.js": "/static/js/787.1ad52dd7.chunk.js",
+    "static/media/clock.png": "/static/media/clock.e0f0a0925bc72e57cdb3.png",
+    "static/media/netflix_app.png": "/static/media/netflix_app.82cf31d6c5a0b80d62f5.png",
+    "static/media/portfolio_pic.png": "/static/media/portfolio_pic.ef8ebf42495d77033ae2.png",
+    "static/media/code_with_harry.png": "/static/media/code_with_harry.1e7dcdfd88bf044a67de.png",
+    "static/media/spotify_ss.png": "/static/media/spotify_ss.66145493c5c76a9589ba.png",
+    "static/media/project_pic1.webp": "/static/media/project_pic1.c58b37da333d73238fdd.webp",
+    "static/media/about_pic.jpg": "/static/media/about_pic.4a77c07ce5ed6ba8acdc.jpg",
+    "static/media/resume.pdf": "/static/media/resume.9400a11bd3021916ac1e.pdf",
+    "static/media/weather_app_ss.PNG": "/static/media/weather_app_ss.a0b39119b41c259aacf7.PNG",
+    "static/media/shuffle_lines.png": "/static/media/shuffle_lines.bd29550a7ade0e4e55b1.png",
+    "static/media/case_converter.png": "/static/media/case_converter.4ec60f2558996fb6f9b4.png",
+    "static/media/todo_list_ss.PNG": "/static/media/todo_list_ss.a47854eeb863d7222b83.PNG",
+    "index.html": "/index.html",
+    "main.b257bcd7.css.map": "/static/css/main.b257bcd7.css.map",
+    "main.073068e0.js.map": "/static/js/main.073068e0.js.map",
+    "787.1ad52dd7.chunk.js.map": "/static/js/787.1ad52dd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b257bcd7.css",
+    "static/js/main.073068e0.js"
+  ]
+}
