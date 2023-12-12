@@ -52,6 +52,7 @@ nav{
 .irtazaName{
   color: #4272da!important;
   text-decoration: none;
+  
 }
 .nav_secondChild{
   margin: 0px 90px;
@@ -185,11 +186,14 @@ nav{
 
   }
   .second_navbar_responsive_name{
-    margin: 0px 50px;
+    margin: 0px 30px;
     /* border: 1px solid red; */
     color: #2D2E32;
     font-weight: bolder;
     font-size: 25px;
+  }
+  .second_navbar_responsive_name a{
+    margin-left: -24px;
   }
   .second_navbar_responsive_humburger{
     margin: 0px 20px;

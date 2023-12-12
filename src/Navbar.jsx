@@ -95,7 +95,7 @@ function Navbar() {
 
             <nav className='second_navbar_responsive' style={dataContext.theme}>
                 <div className='second_navbar_responsive_name' style={dataContext.theme} ><Link to="/" className='irtazaName' > Irtaza Ali</Link>
-                    <i onClick={dataContext.changeBackground} style={{ fontSize: "30px", marginLeft: "20px" }} class={dataContext.sun_moon}></i>
+                    <i onClick={dataContext.changeBackground} style={{ fontSize: "20px", marginLeft: "20px" }} class={dataContext.sun_moon}></i>
                 </div>
 
                 <div className='second_navbar_responsive_humburger'>
