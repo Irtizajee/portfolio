@@ -73,7 +73,9 @@ function Home() {
 
                             <div className='porfolio_text_two' >
                                 <p> Hi, I am Irtaza Ali. A Front-end Developer from Karachi, Pakistan. </p>
+                                
                                <a className='github_link_a' target='_blank'  href="https://github.com/Irtizajee?tab=repositories"> <i  style={{ fontSize: "35px" }} className="fa-brands fa-github github_link"></i> </a>
+                               <a className='github_link_a' target='_blank'  href="https://www.linkedin.com/in/irtaza-ali-3b8b9a2a1/"><i style={{ fontSize: "35px" , marginLeft:'10px' }} class="fa-brands fa-linkedin github_link"></i> </a>
                                 <a className='my_resume_a' href={resume} download> <span  className='my_resume' >  My Resume</span></a>
                             </div>
                         </div>
